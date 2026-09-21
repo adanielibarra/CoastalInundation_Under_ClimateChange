@@ -2,6 +2,8 @@
 
 # Coastal Inundation Under Climate Change
 
+[![DOI](https://zenodo.org/badge/1379783732.svg)](https://doi.org/10.5281/zenodo.22876729)
+
 QGIS plugin to model coastal inundation under sea level rise scenarios.
 
 Plugin created by Daniel Ibarra Marinas, Facultad de Ingeniería y Ciencias, Universidad Autónoma de Tamaulipas.
@@ -40,7 +42,11 @@ QGIS 3.44 or later. numpy and GDAL come with QGIS; scipy is recommended (faster)
 
 ### How to cite
 
-Use the **Cite this repository** button on the right of this page, which reads [`CITATION.cff`](CITATION.cff).
+Ibarra Marinas, D. (2026). *Coastal Inundation Under Climate Change* (v0.5.4) [Software]. Zenodo. https://doi.org/10.5281/zenodo.22876730
+
+To cite all versions (always resolves to the latest): https://doi.org/10.5281/zenodo.22876729
+
+You can also use the **Cite this repository** button on the right of this page, which reads [`CITATION.cff`](CITATION.cff).
 
 ### License
 
@@ -85,7 +91,11 @@ QGIS 3.44 o posterior. numpy y GDAL vienen con QGIS; se recomienda scipy (más r
 
 ### Cómo citar
 
-Usa el botón **Cite this repository** de la derecha de esta página, que lee el fichero [`CITATION.cff`](CITATION.cff).
+Ibarra Marinas, D. (2026). *Coastal Inundation Under Climate Change* (v0.5.4) [Software]. Zenodo. https://doi.org/10.5281/zenodo.22876730
+
+Para citar todas las versiones (siempre lleva a la última): https://doi.org/10.5281/zenodo.22876729
+
+También puedes usar el botón **Cite this repository** de la derecha de esta página, que lee el fichero [`CITATION.cff`](CITATION.cff).
 
 ### Licencia
 
