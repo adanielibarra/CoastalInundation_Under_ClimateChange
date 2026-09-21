@@ -35,7 +35,7 @@ from qgis.core import (
 from . import nucleo
 from .i18n import bi, tr
 
-VERSION = "0.5.3"
+VERSION = "0.5.4"
 AUTHOR = ("Daniel Ibarra Marinas, Facultad de Ingeniería y Ciencias, "
           "Universidad Autónoma de Tamaulipas")
 NODATA_OUT = -9999.0

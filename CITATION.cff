@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "Coastal Inundation Under Climate Change"
+abstract: >-
+  QGIS plugin to model coastal inundation under sea level rise scenarios.
+  It floods only the areas below the new level that connect to the sea,
+  treats NoData connected to the sea as sea, separates disconnected low
+  areas, and gives lower, central and upper uncertainty bands from the DEM
+  error (RMSE and bias) and the sea level projection (symmetric sigma or
+  percentiles).
+authors:
+  - given-names: Daniel
+    family-names: Ibarra Marinas
+    email: daniel.ibarra@uat.edu.mx
+    affiliation: "Facultad de Ingeniería y Ciencias, Universidad Autónoma de Tamaulipas"
+    orcid: "https://orcid.org/0000-0003-3683-4456"
+version: "0.5.4"
+# date-released: "YYYY-MM-DD"                          # PENDING: set on each release
+license: GPL-2.0-or-later
+repository-code: "https://github.com/adanielibarra/CoastalInundation_Under_ClimateChange"
+url: "https://github.com/adanielibarra/CoastalInundation_Under_ClimateChange"
+keywords:
+  - sea level rise
+  - coastal flooding
+  - climate change
+  - QGIS
+  - DEM uncertainty
+  - hydrological connectivity

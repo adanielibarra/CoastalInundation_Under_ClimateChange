@@ -5,16 +5,17 @@ qgisMaximumVersion=4.99
 supportsQt6=True
 description=Sea level rise flood mapping with hydraulic connectivity and DEM uncertainty bands
 about=Plugin created by Daniel Ibarra Marinas, Facultad de Ingeniería y Ciencias, Universidad Autónoma de Tamaulipas. Floods only what lies below the new sea level and connects to the sea. Uncertainty bands from DEM RMSE and projection sigma, classified disconnected low areas, styled GeoTIFF and GeoPackage outputs, statistics and metadata. Static model: no erosion, waves or drainage. Interface in English and Spanish.
-version=0.5.3
+version=0.5.4
 author=Daniel Ibarra Marinas, Facultad de Ingeniería y Ciencias, Universidad Autónoma de Tamaulipas
 email=daniel.ibarra@uat.edu.mx
 icon=icon.png
 hasProcessingProvider=yes
-; PENDING before uploading to plugins.qgis.org: public code repository and issue tracker
-; repository=https://
-; tracker=https://
-; homepage=https://
-changelog=0.5.3
+repository=https://github.com/adanielibarra/CoastalInundation_Under_ClimateChange
+tracker=https://github.com/adanielibarra/CoastalInundation_Under_ClimateChange/issues
+homepage=https://github.com/adanielibarra/CoastalInundation_Under_ClimateChange
+changelog=0.5.4
+    - Repository, tracker and homepage set to GitHub
+    0.5.3
     - Help: author ORCID link; GeoPackage metadata: author_orcid
     - Manuals: clickable links (email, ORCID, ResearchGate, DOI)
     0.5.2
